@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lucas Da Silveira</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-da-silveira&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-da-silveira" /> </p>
-
-<p align="left"> <a href="https://twitter.com/phillyfling0" target="blank"><img src="https://img.shields.io/twitter/follow/phillyfling0?logo=twitter&style=for-the-badge" alt="phillyfling0" /></a> </p>
 
 - 🔭 I am currently at the university **IUT Nord Franche-Comté**
 

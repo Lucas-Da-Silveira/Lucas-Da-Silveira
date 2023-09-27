@@ -1,0 +1,19 @@
+{
+  "name": "lucas-da-silveira",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Lucas Da Silveira</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Da-Silveira/Lucas-Da-Silveira.git"
+  },
+  "author": "Lucas Da Silveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-Da-Silveira/Lucas-Da-Silveira/issues"
+  },
+  "homepage": "https://github.com/Lucas-Da-Silveira/Lucas-Da-Silveira#readme"
+}
